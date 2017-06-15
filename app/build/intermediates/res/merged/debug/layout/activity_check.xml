@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:a="http://schemas.android.com/apk/res/android"
+    a:orientation="vertical"
+    a:layout_width="fill_parent"
+    a:layout_height="fill_parent"
+    a:gravity="center">
+
+    <TextView
+        a:id="@+id/countMsg"
+        a:layout_width="fill_parent"
+        a:layout_height="wrap_content"
+        a:gravity="center"
+        a:text="개수 정보"
+        a:textSize="50dp" />
+
+    <TextView
+        a:id="@+id/tvMsg"
+        a:layout_width="fill_parent"
+        a:layout_height="wrap_content"
+        a:text="타이머 정보"
+        a:textSize="50dp"
+        a:gravity="center"
+        />
+
+    <Button
+        a:id="@+id/btnStart"
+        a:layout_width="wrap_content"
+        a:layout_height="wrap_content"
+        a:text="시작"
+        />
+
+    <Button
+        a:id="@+id/btnStop"
+        a:layout_width="wrap_content"
+        a:layout_height="wrap_content"
+        a:text="정지 및 리셋"
+        />
+
+</LinearLayout>

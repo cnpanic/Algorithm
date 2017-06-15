@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/proMACBOOK/Downloads/HM10_TEST/app/build/intermediates/res/merged/debug/layout/gatt_services_characteristics.xml",
+        "source": "/Users/proMACBOOK/Downloads/HM10_TEST/app/src/main/res/layout/gatt_services_characteristics.xml"
+    },
+    {
+        "merged": "/Users/proMACBOOK/Downloads/HM10_TEST/app/build/intermediates/res/merged/debug/layout/actionbar_indeterminate_progress.xml",
+        "source": "/Users/proMACBOOK/Downloads/HM10_TEST/app/src/main/res/layout/actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "/Users/proMACBOOK/Downloads/HM10_TEST/app/build/intermediates/res/merged/debug/layout/activity_chart.xml",
+        "source": "/Users/proMACBOOK/Downloads/HM10_TEST/app/src/main/res/layout/activity_chart.xml"
+    },
+    {
+        "merged": "/Users/proMACBOOK/Downloads/HM10_TEST/app/build/intermediates/res/merged/debug/layout/activity_check.xml",
+        "source": "/Users/proMACBOOK/Downloads/HM10_TEST/app/src/main/res/layout/activity_check.xml"
+    },
+    {
+        "merged": "/Users/proMACBOOK/Downloads/HM10_TEST/C:\\HM10_TEST\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_device.xml",
+        "source": "/Users/proMACBOOK/Downloads/HM10_TEST/C:\\HM10_TEST\\app\\src\\main\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "/Users/proMACBOOK/Downloads/HM10_TEST/C:\\HM10_TEST\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gatt_services_characteristics.xml",
+        "source": "/Users/proMACBOOK/Downloads/HM10_TEST/C:\\HM10_TEST\\app\\src\\main\\res\\layout\\gatt_services_characteristics.xml"
+    },
+    {
+        "merged": "/Users/proMACBOOK/Downloads/HM10_TEST/app/build/intermediates/res/merged/debug/layout/listitem_device.xml",
+        "source": "/Users/proMACBOOK/Downloads/HM10_TEST/app/src/main/res/layout/listitem_device.xml"
+    },
+    {
+        "merged": "/Users/proMACBOOK/Downloads/HM10_TEST/C:\\HM10_TEST\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_check.xml",
+        "source": "/Users/proMACBOOK/Downloads/HM10_TEST/C:\\HM10_TEST\\app\\src\\main\\res\\layout\\activity_check.xml"
+    },
+    {
+        "merged": "/Users/proMACBOOK/Downloads/HM10_TEST/C:\\HM10_TEST\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_indeterminate_progress.xml",
+        "source": "/Users/proMACBOOK/Downloads/HM10_TEST/C:\\HM10_TEST\\app\\src\\main\\res\\layout\\actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "/Users/proMACBOOK/Downloads/HM10_TEST/C:\\HM10_TEST\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chart.xml",
+        "source": "/Users/proMACBOOK/Downloads/HM10_TEST/C:\\HM10_TEST\\app\\src\\main\\res\\layout\\activity_chart.xml"
+    }
+]

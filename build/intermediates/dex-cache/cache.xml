@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/proMACBOOK/.android/build-cache/5e6f6980ff569f39768b5521b2ff36a23a15feb0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="37bf8de5b4f9e7e93006db783b9b3168e32e38e9">
+        <dex dex="/Users/proMACBOOK/Downloads/HM10_TEST/app/build/intermediates/pre-dexed/debug/classes_13d6727e60931b16ce99aea974aa4d6769e9c284.jar" />
+    </item>
+
+</items>
